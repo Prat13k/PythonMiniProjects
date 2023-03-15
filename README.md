@@ -1,6 +1,6 @@
 # PythonMiniProjects-
-This repository contains mini python project and code.
+This repository contains mini python project and their code.
 
-Currently ths repository is empty. I will be upplaoding the files soon.
+Currently ths repository is empty. I will be uplaoding the files soon.
 
 Thanks
