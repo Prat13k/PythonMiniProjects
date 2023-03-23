@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects which were made to improve python skills, this codes can also be used for practice purposes.
+This repository contains several mini python projects this practice questions can also be used for practice purpose.
 
 #### Problem 1: 
 Accept a number from user and return the reverse of the number without using the reverse function.
