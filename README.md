@@ -10,3 +10,6 @@ Accept a number from the user and return the sum of all the natural number that 
 
 #### Problem 3:
 An Array has been Sorted in ascending order but has been cyclically shifted, find the element that has to the minimum element. Write an algorithm that optimally finds the minimum element in such an array.
+
+#### Problem 4:
+
