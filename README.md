@@ -13,3 +13,6 @@ An Array has been Sorted in ascending order but has been cyclically shifted, fin
 
 #### Problem 4:
 Check if a palindrome can be created by the string provided by the user, print "True" if the word is a palindrome and "False" if it is not a palindrome.
+
+#### Problem 5:
+Write a function to determine whether one line is a permutation of another. Write an algorithm that optimally finishes the task.
