@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects this practice questions can also be used for practice purpose.
+This repository contains several mini python projects this practice questions can also be used for practice purposes.
 
 #### Problem 1: 
 Accept a number from user and return the reverse of the number without using the reverse function.
@@ -15,4 +15,4 @@ An Array has been Sorted in ascending order but has been cyclically shifted, fin
 Check if a palindrome can be created by the string provided by the user, print "True" if the word is a palindrome and "False" if it is not a palindrome.
 
 #### Problem 5:
-Write a function to determine whether one line is a permutation of another. Write an algorithm that optimally finishes the task.
+Write a function to determine whether one line is a permutation of another and print the result. Write an algorithm that optimally finishes the task.
