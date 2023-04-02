@@ -1,8 +1,8 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects this practice questions can also be used for practice purposes.
+This repository contains several mini python projects this practice questions can also be used for practice purpose.
 
-#### Problem 1: 
+#### Problem 1:
 Write a programme to accept a number from user and return the reverse of the number without using the reverse function.
 
 #### Problem 2:
@@ -26,3 +26,12 @@ Write a function, which counts each character in a string and print the output w
 #### Problem 8:
 Fill the water into all the bottles. Some are already full, while some are empty and some are partially filled. Each bottle can contain X milliliters of water 
 (Dynamic, entered by user), while the capacity of Jar is 1 litre. Ana array (Given by user) is given with the existing bottles on the tables, with 0 to 10 as the values for each element, where 0 means its empty and 10 means its full. Fill all the bottles and print how much additional water was used to fill all the bottle. Come up with am optimal algorithm and implement it. Use least amount of varaible and statements, but performance matters.
+
+#### Problem 9:
+Given a numercial array. Check if there are two such number in the array, multiplying which we get given number X.
+
+#### Problem 10:
+You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off woeking day or you are on holiday. You have to create a program that you get to sleep (Return True).
+
+#### Problem 11:
+There is a pair of twin children Ash, bob and both of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are same mood. so you have to create a programme to give result when they are in same mood and true when not.
