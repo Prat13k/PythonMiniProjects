@@ -31,6 +31,15 @@ Fill the water into all the bottles. Some are already full, while some are empty
 Given a numercial array. Check if there are two such number in the array, multiplying which we get given number X.
 
 #### Problem 10:
+You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off working day or you are on holidays, You hav to create a programme that you get to sleep when you are on holidays or you are off from working day. return True when you get to sleep and False on the working days.
+
+#### Problem 11:
+Their is a pair of twin children, Ash, Bob and bothm of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are in same mood. It becomes too confusing to identify them when they are in the same mood, So you have to create a programme to give result False when they are in te same mood and True when not.
+
+#### Problem 12:
+You have to create a programme which returns sum of given two input values but if given values are same then return double of their sum.
+
+#### Problem 10:
 You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off woeking day or you are on holiday. You have to create a program that you get to sleep (Return True).
 
 #### Problem 11:
