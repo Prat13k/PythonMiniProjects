@@ -31,6 +31,9 @@ Fill the water into all the bottles. Some are already full, while some are empty
 Given a numercial array. Check if there are two such number in the array, multiplying which we get given number X.
 
 #### Problem 10:
+You are a hardworking child but you lack sleep cause of being busy with work you can only sleep when you are off working days or you are on holidays. You have to create a programme that you get to sleep (Return TRUE) if you are on holidays or you are off from wokring days.
+
+#### Problem 10:
 You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off working day or you are on holidays, You hav to create a programme that you get to sleep when you are on holidays or you are off from working day. return True when you get to sleep and False on the working days.
 
 #### Problem 11:
