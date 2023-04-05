@@ -47,3 +47,7 @@ You are a hard working child but you lack sleep cause of being busy with work. Y
 
 #### Problem 11:
 There is a pair of twin children Ash, bob and both of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are same mood. so you have to create a programme to give result when they are in same mood and true when not.
+
+#### Problem 12:
+You have to create a program which returns sum of given two input values but if given
+values are same, than return double of their sum
