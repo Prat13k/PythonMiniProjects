@@ -49,5 +49,10 @@ You are a hard working child but you lack sleep cause of being busy with work. Y
 There is a pair of twin children Ash, bob and both of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are same mood. so you have to create a programme to give result when they are in same mood and true when not.
 
 #### Problem 12:
-You have to create a program which returns sum of given two input values but if given
-values are same, than return double of their sum
+You have to create a program which returns sum of given two input values but if given values are same, than return double of their sum.
+
+#### Problem 13:
+We all use the function to convert a string to a number but what if that was not available. This task is to write your own convert to string function.
+  1. A string contains alphanumeric characters, but the function should be able to pick the last set of digits.
+  2. It should only convert the sring to intergarss and if the decimals are provided, they shoould be rounded off to a nearest integar.
+  3. The range of this number should be between [-2^31,2^31-1]. If the result is outside this range, display the border value.
