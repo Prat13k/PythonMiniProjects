@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects this practice questions can also be used for practice purpose.
+This repository contains several mini python projects. This questions can also be used for practice purpose please feel free to try them out.
 
 #### Problem 1:
 Write a programme to accept a number from user and return the reverse of the number without using the reverse function.
@@ -40,16 +40,7 @@ You are a hard working child but you lack sleep cause of being busy with work. Y
 Their is a pair of twin children, Ash, Bob and bothm of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are in same mood. It becomes too confusing to identify them when they are in the same mood, So you have to create a programme to give result False when they are in te same mood and True when not.
 
 #### Problem 12:
-You have to create a programme which returns sum of given two input values but if given values are same then return double of their sum.
-
-#### Problem 10:
-You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off woeking day or you are on holiday. You have to create a program that you get to sleep (Return True).
-
-#### Problem 11:
-There is a pair of twin children Ash, bob and both of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are same mood. so you have to create a programme to give result when they are in same mood and true when not.
-
-#### Problem 12:
-You have to create a program which returns sum of given two input values but if given values are same, than return double of their sum.
+You have to create a programme which returns sum of the given two input values but if given values are same then return double of their sum.
 
 #### Problem 13:
 We all use the function to convert a string to a number but what if that was not available. This task is to write your own convert to string function.
