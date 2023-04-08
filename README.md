@@ -47,3 +47,6 @@ We all use the function to convert a string to a number but what if that was not
   1. A string contains alphanumeric characters, but the function should be able to pick the last set of digits.
   2. It should only convert the sring to intergarss and if the decimals are provided, they shoould be rounded off to a nearest integar.
   3. The range of this number should be between [-2^31,2^31-1]. If the result is outside this range, display the border value.
+  
+#### Problem 14:
+Write a programme which inputs two numbers A and B. If A is smaller then B than print absolute difference else print double of their absolute difference.
