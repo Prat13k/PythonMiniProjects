@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects. This questions can also be used for practice purpose please feel free to try them out.
+This repository contains several mini python projects. This questions can also be used for practice purpose please feel free to try them out. Please try using logic instead of predefined functions.
 
 #### Problem 1:
 Write a programme to accept a number from user and return the reverse of the number without using the reverse function.
@@ -34,7 +34,7 @@ Given a numercial array. Check if there are two such number in the array, multip
 You are a hardworking child but you lack sleep cause of being busy with work you can only sleep when you are off working days or you are on holidays. You have to create a programme that you get to sleep (Return TRUE) if you are on holidays or you are off from wokring days.
 
 #### Problem 10:
-You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off working day or you are on holidays, You hav to create a programme that you get to sleep when you are on holidays or you are off from working day. Return "True" when you get to sleep and "False" on the working days.
+You are a hard working child but you lack sleep cause of being busy with work. You can only sleep when you are off working day or you are on holidays, You have to create a programme that you get to sleep when you are on holidays or you are off from working day. Return "True" when you get to sleep and "False" on the working days.
 
 #### Problem 11:
 Their is a pair of twin children, Ash, Bob and bothm of them has parameters a_happy and b_happy. It becomes too confusing to identify them when they are in same mood. It becomes too confusing to identify them when they are in the same mood, So you have to create a programme to give result "False" when they are in the same mood and "True" when not.
