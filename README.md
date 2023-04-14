@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects. This questions can also be used for practice purpose please feel free to try them out. Please try using logic instead of predefined functions.
+This repository contains several mini python projects. This questions can also be used for practice purpose. please feel free to try them out. Please try using logic instead of predefined functions.
 
 #### Problem 1:
 Write a programme to accept a number from user and return the reverse of the number without using the reverse function.
@@ -50,3 +50,5 @@ We all use the function to convert a string to a number but what if that was not
   
 #### Problem 14:
 Write a programme which inputs two numbers A and B. If A is smaller then B than print absolute difference else print double of their absolute difference.
+
+#### Problem 15:
