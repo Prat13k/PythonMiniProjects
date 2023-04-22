@@ -49,3 +49,9 @@ We all use the function to convert a string to a number but what if that was not
 Write a programme which inputs two numbers A and B. If A is smaller then B than print absolute difference else print double of their absolute difference.
 
 #### Problem 15:
+YOu have a pet cat and whenever it cries between time 7 to 20, you are safe.
+The input has to be given in whether the cat is crying (Input "True") or not (Input "False") and time in form of "Hour" in range 0 to 23.
+So create a programme to check whether you are safe (Output "True") or not (Output "False").
+
+#### Problem 16:
+You have to create a programme where you have to print first 3 letters of a given word three times. if the given input is less than 3 than print it 3 times as well.
