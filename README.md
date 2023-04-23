@@ -55,3 +55,5 @@ So create a programme to check whether you are safe (Output "True") or not (Outp
 
 #### Problem 16:
 You have to create a programme where you have to print first 3 letters of a given word three times. if the given input is less than 3 than print it 3 times as well.
+
+#### Problem 17:
