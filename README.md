@@ -6,7 +6,7 @@ This repository contains several mini python projects. This questions are also f
 Write a programme to accept a number from user and return the reverse of the number without using the reverse function.
 
 #### Problem 2:
-Write a programme to accept a number from the user and return the sum of all the natural number that are the multiples of Five and Seven.
+Write a programme to accept a number from the user and return the sum of all the natural number that are the multiples of either 5 or 7 or both of them.
 
 #### Problem 3:
 An Array has been sorted in ascending order but has been cyclically shifted, find the element that has to the minimum element. Write an algorithm that optimally finds the minimum element in such an array.
