@@ -18,7 +18,7 @@ Check if a palindrome can be created by the string provided by the user, print "
 Write a function to determine whether one line is a permutation of another and print the result. Write an algorithm that optimally finishes the task.
 
 #### Problem 6:
-Given a line, the words in it are indicated with a space,  print words in descending order of their length.
+Given a line, the words in it are indicated with a space, print words in descending order of their length.
 
 #### Problem 7:
 Write a function, which counts each character in a string and print the output with the character count.
@@ -42,11 +42,11 @@ You have to create a programme which returns sum of the given two input values b
 #### Problem 13:
 We all use the function to convert a string to a number but what if that was not available. This task is to write your own convert to string function.
   1. A string contains alphanumeric characters, but the function should be able to pick the last set of digits.
-  2. It should only convert the sring to intergarss and if the decimals are provided, they shoould be rounded off to a nearest integar.
+  2. It should only convert the sring to intergarss and if the decimals are provided, they should be rounded off to a nearest integar.
   3. The range of this number should be between [-2^31,2^31-1]. If the result is outside this range, display the border value.
   
 #### Problem 14:
-Write a programme which inputs two numbers A and B. If A is smaller then B than print absolute difference else print double of their absolute difference.
+Write a programme which inputs two numbers A and B. If A is smaller than B then print absolute difference else print double of their absolute difference.
 
 #### Problem 15:
 YOu have a pet cat and whenever it cries between time 7 to 20, you are safe.
