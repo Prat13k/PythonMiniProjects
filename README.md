@@ -57,3 +57,7 @@ So create a programme to check whether you are safe (Output "True") or not (Outp
 You have to create a programme where you have to print first 3 letters of a given word three times. if the given input is less than 3 than print it 3 times as well.
 
 #### Problem 17:
+You have to print a programme in which a given string is printed with first and last letter exchanged.
+
+#### Problem 18:
+You have to create a programme which takes input as two arguments where one will be string and the other a positive int. Now you to print output first three characters of the given string the times the value is given as input.
