@@ -3,7 +3,7 @@
 This repository contains several mini python projects. This questions are also for practice purposes. Please feel free to try them out. Please try using logic instead of predefined functions.
 
 #### Problem 1:
-Write a programme to accept a number from user and return the reverse of the number without using the reverse function.
+Write a programme to accept a number from user and return the reverse of the number without using the predefined reverse() function.
 
 #### Problem 2:
 Write a programme to accept a number from the user and return the sum of all the natural number that are the multiples of either 5 or 7 or both of them.
