@@ -1,6 +1,8 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects. This questions are also for practice purposes. Please feel free to try them out. Please try using logic instead of predefined functions.
+This repository contains several mini python projects. This questions are also for practice purpose. Please feel free to try them out. 
+
+Note : Please try using logic instead of predefined functions.
 
 #### Problem 1:
 Write a programme to accept a number from user and return the reverse of the number without using the predefined reverse() function.
