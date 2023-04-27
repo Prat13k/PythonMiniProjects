@@ -62,4 +62,4 @@ You have to create a programme where you have to print first 3 letters of a give
 You have to print a programme in which a given string is printed with first and last letter exchanged.
 
 #### Problem 18:
-You have to create a programme which takes input as two arguments where one will be string and the other a positive int. Now you to print output first three characters of the given string the times the value is given as input.
+You have to create a programme which takes input as two arguments where one will be a string and the other a positive int. Now you to print output first three characters of the given string the times the value is given as input.
