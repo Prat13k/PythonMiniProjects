@@ -1,6 +1,6 @@
 # PythonMiniProjects
 
-This repository contains several mini python projects. This questions are also for practice purpose. Please feel free to try them out. 
+This repository contains several mini python projects. This questions are also for practice purpose. Please feel free to try them out and play around with them. 
 
 Note : Please try using logic instead of predefined functions.
 
