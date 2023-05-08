@@ -63,3 +63,30 @@ You have to print a programme in which a given string is printed with first and 
 
 #### Problem 18:
 You have to create a programme which takes input as two arguments where one will be a string and the other a positive int. Now you to print output first three characters of the given string the times the value is given as input.
+
+#### Problem 19:
+You have to create a program in which two strings are given as input and you have to give output number of strings getting matched in both strings.
+
+#### Problem 20:
+You have to create a program in which two inputs has to be taken, 1st double bracket string with size 4 and 2nd input is a word. now print the word inside the bracket
+  For example: 
+    Input : '(())','Python'
+    Output : '((Python))'
+
+#### Problem 21:
+You have to create a program in which a list of numbers are given and you to print the list shifted left by one step.
+
+#### Problem 22:
+Create a program in which a list is given as input and you have to find max number and change each element of list into max element. Try to create this programme without loop.
+
+#### Problme 23:
+You have to create a program in which a list is given as input and you have to print the sum of 1st, last and mid element of the list. If the list count is even, then select the 1st, last and average of 2 elements from the middle have to be considered.
+
+#### Problem 24:
+You and your date are trying to get a table at a restaurent. The parameter "You" is the stylishness of your clothes in the range 0....10, and "Date" is the stylishnessof your date's clothes, The result getting the table is encoded as an int value with.
+  - 0 = no
+  - 1 = Maybe
+  - 2 = Yes
+if either "You" is stylish, 8 or more, then the result is 2 (Yes). if "You" is 2, then the result is 0 (No). Otherwise the result is 1 (Maybe).
+
+#### Problem 25
